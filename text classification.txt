@@ -1,0 +1,2 @@
+Document with two lists:
+can categorize words and use this for text classification
